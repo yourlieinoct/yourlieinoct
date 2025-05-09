@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @yourlieinoct
-- 👀 I’m interested in scripting,art,poetry,history etc
-- 🌱 I’m currently learning how to script
-- 📫 How to reach me discord: yourlieinoct
-  
+Hiii! I'm **yourlieinoct**, a selftaught scripter who's still improving, so bear with me as I learn and grow!..🛐
 
-<!---
-yourlieinoct/yourlieinoct is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+If you have any ideas, script requests, or even tips for me, please reach out on Discord by texting **yourlieinoct**. I’m always open to new ideas and feedback!
